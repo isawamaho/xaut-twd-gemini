@@ -1,0 +1,8 @@
+{
+  "name": "Aureum Vault — XAUT 鏈上黃金估值",
+  "description": "即時查詢以太坊錢包的 Tether Gold (XAUT) 持倉餘額，串接 MaiCoin 集團即時賣出報價計算新台幣現值與實體黃金重量換算。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
